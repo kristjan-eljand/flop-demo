@@ -1,0 +1,146 @@
+,scenario,fuse_size,dso_packet,battery,pv_capacity,cost_sum,cost_mean
+0,Baas,16,net3,Puudub,0,601.0,1.65
+1,Kaitse:16 + net1 + PV:4 + Aku:Puudub,16,net1,Puudub,4,321.0,0.88
+2,Kaitse:16 + net1 + PV:4 + Aku:Tesla Powerwall 2,16,net1,Tesla Powerwall 2,4,9.0,0.02
+3,Kaitse:16 + net1 + PV:4 + Aku:LG Chem RESU,16,net1,LG Chem RESU,4,144.0,0.39
+4,Kaitse:16 + net2 + PV:4 + Aku:Puudub,16,net2,Puudub,4,294.0,0.8
+5,Kaitse:16 + net2 + PV:4 + Aku:Tesla Powerwall 2,16,net2,Tesla Powerwall 2,4,2.0,0.01
+6,Kaitse:16 + net2 + PV:4 + Aku:LG Chem RESU,16,net2,LG Chem RESU,4,124.0,0.34
+7,Kaitse:16 + net3 + PV:4 + Aku:Puudub,16,net3,Puudub,4,222.0,0.61
+8,Kaitse:16 + net3 + PV:4 + Aku:Tesla Powerwall 2,16,net3,Tesla Powerwall 2,4,-33.0,-0.09
+9,Kaitse:16 + net3 + PV:4 + Aku:LG Chem RESU,16,net3,LG Chem RESU,4,73.0,0.2
+10,Kaitse:16 + net4 + PV:4 + Aku:Puudub,16,net4,Puudub,4,209.0,0.57
+11,Kaitse:16 + net4 + PV:4 + Aku:Tesla Powerwall 2,16,net4,Tesla Powerwall 2,4,-39.0,-0.11
+12,Kaitse:16 + net4 + PV:4 + Aku:LG Chem RESU,16,net4,LG Chem RESU,4,63.0,0.17
+13,Kaitse:20 + net1 + PV:4 + Aku:Puudub,20,net1,Puudub,4,321.0,0.88
+14,Kaitse:20 + net1 + PV:4 + Aku:Tesla Powerwall 2,20,net1,Tesla Powerwall 2,4,9.0,0.02
+15,Kaitse:20 + net1 + PV:4 + Aku:LG Chem RESU,20,net1,LG Chem RESU,4,144.0,0.39
+16,Kaitse:20 + net2 + PV:4 + Aku:Puudub,20,net2,Puudub,4,294.0,0.8
+17,Kaitse:20 + net2 + PV:4 + Aku:Tesla Powerwall 2,20,net2,Tesla Powerwall 2,4,2.0,0.01
+18,Kaitse:20 + net2 + PV:4 + Aku:LG Chem RESU,20,net2,LG Chem RESU,4,124.0,0.34
+19,Kaitse:20 + net3 + PV:4 + Aku:Puudub,20,net3,Puudub,4,242.0,0.66
+20,Kaitse:20 + net3 + PV:4 + Aku:Tesla Powerwall 2,20,net3,Tesla Powerwall 2,4,-25.0,-0.07
+21,Kaitse:20 + net3 + PV:4 + Aku:LG Chem RESU,20,net3,LG Chem RESU,4,88.0,0.24
+22,Kaitse:20 + net4 + PV:4 + Aku:Puudub,20,net4,Puudub,4,229.0,0.63
+23,Kaitse:20 + net4 + PV:4 + Aku:Tesla Powerwall 2,20,net4,Tesla Powerwall 2,4,-29.0,-0.08
+24,Kaitse:20 + net4 + PV:4 + Aku:LG Chem RESU,20,net4,LG Chem RESU,4,78.0,0.21
+25,Kaitse:32 + net1 + PV:4 + Aku:Puudub,32,net1,Puudub,4,355.0,0.97
+26,Kaitse:32 + net1 + PV:4 + Aku:Tesla Powerwall 2,32,net1,Tesla Powerwall 2,4,23.0,0.06
+27,Kaitse:32 + net1 + PV:4 + Aku:LG Chem RESU,32,net1,LG Chem RESU,4,168.0,0.46
+28,Kaitse:32 + net2 + PV:4 + Aku:Puudub,32,net2,Puudub,4,328.0,0.9
+29,Kaitse:32 + net2 + PV:4 + Aku:Tesla Powerwall 2,32,net2,Tesla Powerwall 2,4,17.0,0.05
+30,Kaitse:32 + net2 + PV:4 + Aku:LG Chem RESU,32,net2,LG Chem RESU,4,149.0,0.41
+31,Kaitse:32 + net3 + PV:4 + Aku:Puudub,32,net3,Puudub,4,297.0,0.81
+32,Kaitse:32 + net3 + PV:4 + Aku:Tesla Powerwall 2,32,net3,Tesla Powerwall 2,4,-1.0,-0.0
+33,Kaitse:32 + net3 + PV:4 + Aku:LG Chem RESU,32,net3,LG Chem RESU,4,127.0,0.35
+34,Kaitse:32 + net4 + PV:4 + Aku:Puudub,32,net4,Puudub,4,284.0,0.78
+35,Kaitse:32 + net4 + PV:4 + Aku:Tesla Powerwall 2,32,net4,Tesla Powerwall 2,4,-4.0,-0.01
+36,Kaitse:32 + net4 + PV:4 + Aku:LG Chem RESU,32,net4,LG Chem RESU,4,118.0,0.32
+37,Kaitse:16 + net1 + PV:6 + Aku:Puudub,16,net1,Puudub,6,131.0,0.36
+38,Kaitse:16 + net1 + PV:6 + Aku:Tesla Powerwall 2,16,net1,Tesla Powerwall 2,6,-196.0,-0.54
+39,Kaitse:16 + net1 + PV:6 + Aku:LG Chem RESU,16,net1,LG Chem RESU,6,-51.0,-0.14
+40,Kaitse:16 + net2 + PV:6 + Aku:Puudub,16,net2,Puudub,6,104.0,0.28
+41,Kaitse:16 + net2 + PV:6 + Aku:Tesla Powerwall 2,16,net2,Tesla Powerwall 2,6,-202.0,-0.55
+42,Kaitse:16 + net2 + PV:6 + Aku:LG Chem RESU,16,net2,LG Chem RESU,6,-70.0,-0.19
+43,Kaitse:16 + net3 + PV:6 + Aku:Puudub,16,net3,Puudub,6,32.0,0.09
+44,Kaitse:16 + net3 + PV:6 + Aku:Tesla Powerwall 2,16,net3,Tesla Powerwall 2,6,-237.0,-0.65
+45,Kaitse:16 + net3 + PV:6 + Aku:LG Chem RESU,16,net3,LG Chem RESU,6,-121.0,-0.33
+46,Kaitse:16 + net4 + PV:6 + Aku:Puudub,16,net4,Puudub,6,19.0,0.05
+47,Kaitse:16 + net4 + PV:6 + Aku:Tesla Powerwall 2,16,net4,Tesla Powerwall 2,6,-242.0,-0.66
+48,Kaitse:16 + net4 + PV:6 + Aku:LG Chem RESU,16,net4,LG Chem RESU,6,-131.0,-0.36
+49,Kaitse:20 + net1 + PV:6 + Aku:Puudub,20,net1,Puudub,6,131.0,0.36
+50,Kaitse:20 + net1 + PV:6 + Aku:Tesla Powerwall 2,20,net1,Tesla Powerwall 2,6,-196.0,-0.54
+51,Kaitse:20 + net1 + PV:6 + Aku:LG Chem RESU,20,net1,LG Chem RESU,6,-51.0,-0.14
+52,Kaitse:20 + net2 + PV:6 + Aku:Puudub,20,net2,Puudub,6,104.0,0.28
+53,Kaitse:20 + net2 + PV:6 + Aku:Tesla Powerwall 2,20,net2,Tesla Powerwall 2,6,-202.0,-0.55
+54,Kaitse:20 + net2 + PV:6 + Aku:LG Chem RESU,20,net2,LG Chem RESU,6,-70.0,-0.19
+55,Kaitse:20 + net3 + PV:6 + Aku:Puudub,20,net3,Puudub,6,52.0,0.14
+56,Kaitse:20 + net3 + PV:6 + Aku:Tesla Powerwall 2,20,net3,Tesla Powerwall 2,6,-228.0,-0.63
+57,Kaitse:20 + net3 + PV:6 + Aku:LG Chem RESU,20,net3,LG Chem RESU,6,-107.0,-0.29
+58,Kaitse:20 + net4 + PV:6 + Aku:Puudub,20,net4,Puudub,6,39.0,0.11
+59,Kaitse:20 + net4 + PV:6 + Aku:Tesla Powerwall 2,20,net4,Tesla Powerwall 2,6,-232.0,-0.64
+60,Kaitse:20 + net4 + PV:6 + Aku:LG Chem RESU,20,net4,LG Chem RESU,6,-117.0,-0.32
+61,Kaitse:32 + net1 + PV:6 + Aku:Puudub,32,net1,Puudub,6,165.0,0.45
+62,Kaitse:32 + net1 + PV:6 + Aku:Tesla Powerwall 2,32,net1,Tesla Powerwall 2,6,-182.0,-0.5
+63,Kaitse:32 + net1 + PV:6 + Aku:LG Chem RESU,32,net1,LG Chem RESU,6,-27.0,-0.07
+64,Kaitse:32 + net2 + PV:6 + Aku:Puudub,32,net2,Puudub,6,139.0,0.38
+65,Kaitse:32 + net2 + PV:6 + Aku:Tesla Powerwall 2,32,net2,Tesla Powerwall 2,6,-187.0,-0.51
+66,Kaitse:32 + net2 + PV:6 + Aku:LG Chem RESU,32,net2,LG Chem RESU,6,-46.0,-0.13
+67,Kaitse:32 + net3 + PV:6 + Aku:Puudub,32,net3,Puudub,6,107.0,0.29
+68,Kaitse:32 + net3 + PV:6 + Aku:Tesla Powerwall 2,32,net3,Tesla Powerwall 2,6,-205.0,-0.56
+69,Kaitse:32 + net3 + PV:6 + Aku:LG Chem RESU,32,net3,LG Chem RESU,6,-68.0,-0.19
+70,Kaitse:32 + net4 + PV:6 + Aku:Puudub,32,net4,Puudub,6,94.0,0.26
+71,Kaitse:32 + net4 + PV:6 + Aku:Tesla Powerwall 2,32,net4,Tesla Powerwall 2,6,-208.0,-0.57
+72,Kaitse:32 + net4 + PV:6 + Aku:LG Chem RESU,32,net4,LG Chem RESU,6,-77.0,-0.21
+73,Kaitse:16 + net1 + PV:9 + Aku:Puudub,16,net1,Puudub,9,-154.0,-0.42
+74,Kaitse:16 + net1 + PV:9 + Aku:Tesla Powerwall 2,16,net1,Tesla Powerwall 2,9,-490.0,-1.34
+75,Kaitse:16 + net1 + PV:9 + Aku:LG Chem RESU,16,net1,LG Chem RESU,9,-341.0,-0.93
+76,Kaitse:16 + net2 + PV:9 + Aku:Puudub,16,net2,Puudub,9,-181.0,-0.5
+77,Kaitse:16 + net2 + PV:9 + Aku:Tesla Powerwall 2,16,net2,Tesla Powerwall 2,9,-496.0,-1.36
+78,Kaitse:16 + net2 + PV:9 + Aku:LG Chem RESU,16,net2,LG Chem RESU,9,-360.0,-0.99
+79,Kaitse:16 + net3 + PV:9 + Aku:Puudub,16,net3,Puudub,9,-253.0,-0.69
+80,Kaitse:16 + net3 + PV:9 + Aku:Tesla Powerwall 2,16,net3,Tesla Powerwall 2,9,-531.0,-1.46
+81,Kaitse:16 + net3 + PV:9 + Aku:LG Chem RESU,16,net3,LG Chem RESU,9,-411.0,-1.12
+82,Kaitse:16 + net4 + PV:9 + Aku:Puudub,16,net4,Puudub,9,-265.0,-0.73
+83,Kaitse:16 + net4 + PV:9 + Aku:Tesla Powerwall 2,16,net4,Tesla Powerwall 2,9,-536.0,-1.47
+84,Kaitse:16 + net4 + PV:9 + Aku:LG Chem RESU,16,net4,LG Chem RESU,9,-420.0,-1.15
+85,Kaitse:20 + net1 + PV:9 + Aku:Puudub,20,net1,Puudub,9,-154.0,-0.42
+86,Kaitse:20 + net1 + PV:9 + Aku:Tesla Powerwall 2,20,net1,Tesla Powerwall 2,9,-490.0,-1.34
+87,Kaitse:20 + net1 + PV:9 + Aku:LG Chem RESU,20,net1,LG Chem RESU,9,-341.0,-0.93
+88,Kaitse:20 + net2 + PV:9 + Aku:Puudub,20,net2,Puudub,9,-181.0,-0.5
+89,Kaitse:20 + net2 + PV:9 + Aku:Tesla Powerwall 2,20,net2,Tesla Powerwall 2,9,-496.0,-1.36
+90,Kaitse:20 + net2 + PV:9 + Aku:LG Chem RESU,20,net2,LG Chem RESU,9,-360.0,-0.99
+91,Kaitse:20 + net3 + PV:9 + Aku:Puudub,20,net3,Puudub,9,-233.0,-0.64
+92,Kaitse:20 + net3 + PV:9 + Aku:Tesla Powerwall 2,20,net3,Tesla Powerwall 2,9,-523.0,-1.43
+93,Kaitse:20 + net3 + PV:9 + Aku:LG Chem RESU,20,net3,LG Chem RESU,9,-396.0,-1.09
+94,Kaitse:20 + net4 + PV:9 + Aku:Puudub,20,net4,Puudub,9,-245.0,-0.67
+95,Kaitse:20 + net4 + PV:9 + Aku:Tesla Powerwall 2,20,net4,Tesla Powerwall 2,9,-527.0,-1.44
+96,Kaitse:20 + net4 + PV:9 + Aku:LG Chem RESU,20,net4,LG Chem RESU,9,-406.0,-1.11
+97,Kaitse:32 + net1 + PV:9 + Aku:Puudub,32,net1,Puudub,9,-119.0,-0.33
+98,Kaitse:32 + net1 + PV:9 + Aku:Tesla Powerwall 2,32,net1,Tesla Powerwall 2,9,-476.0,-1.31
+99,Kaitse:32 + net1 + PV:9 + Aku:LG Chem RESU,32,net1,LG Chem RESU,9,-316.0,-0.87
+100,Kaitse:32 + net2 + PV:9 + Aku:Puudub,32,net2,Puudub,9,-146.0,-0.4
+101,Kaitse:32 + net2 + PV:9 + Aku:Tesla Powerwall 2,32,net2,Tesla Powerwall 2,9,-482.0,-1.32
+102,Kaitse:32 + net2 + PV:9 + Aku:LG Chem RESU,32,net2,LG Chem RESU,9,-335.0,-0.92
+103,Kaitse:32 + net3 + PV:9 + Aku:Puudub,32,net3,Puudub,9,-178.0,-0.49
+104,Kaitse:32 + net3 + PV:9 + Aku:Tesla Powerwall 2,32,net3,Tesla Powerwall 2,9,-500.0,-1.37
+105,Kaitse:32 + net3 + PV:9 + Aku:LG Chem RESU,32,net3,LG Chem RESU,9,-358.0,-0.98
+106,Kaitse:32 + net4 + PV:9 + Aku:Puudub,32,net4,Puudub,9,-190.0,-0.52
+107,Kaitse:32 + net4 + PV:9 + Aku:Tesla Powerwall 2,32,net4,Tesla Powerwall 2,9,-503.0,-1.38
+108,Kaitse:32 + net4 + PV:9 + Aku:LG Chem RESU,32,net4,LG Chem RESU,9,-366.0,-1.0
+109,Kaitse:16 + net1 + PV:12 + Aku:Puudub,16,net1,Puudub,12,-439.0,-1.2
+110,Kaitse:16 + net1 + PV:12 + Aku:Tesla Powerwall 2,16,net1,Tesla Powerwall 2,12,-781.0,-2.14
+111,Kaitse:16 + net1 + PV:12 + Aku:LG Chem RESU,16,net1,LG Chem RESU,12,-629.0,-1.72
+112,Kaitse:16 + net2 + PV:12 + Aku:Puudub,16,net2,Puudub,12,-465.0,-1.28
+113,Kaitse:16 + net2 + PV:12 + Aku:Tesla Powerwall 2,16,net2,Tesla Powerwall 2,12,-787.0,-2.15
+114,Kaitse:16 + net2 + PV:12 + Aku:LG Chem RESU,16,net2,LG Chem RESU,12,-647.0,-1.77
+115,Kaitse:16 + net3 + PV:12 + Aku:Puudub,16,net3,Puudub,12,-538.0,-1.47
+116,Kaitse:16 + net3 + PV:12 + Aku:Tesla Powerwall 2,16,net3,Tesla Powerwall 2,12,-821.0,-2.25
+117,Kaitse:16 + net3 + PV:12 + Aku:LG Chem RESU,16,net3,LG Chem RESU,12,-698.0,-1.91
+118,Kaitse:16 + net4 + PV:12 + Aku:Puudub,16,net4,Puudub,12,-550.0,-1.51
+119,Kaitse:16 + net4 + PV:12 + Aku:Tesla Powerwall 2,16,net4,Tesla Powerwall 2,12,-826.0,-2.26
+120,Kaitse:16 + net4 + PV:12 + Aku:LG Chem RESU,16,net4,LG Chem RESU,12,-708.0,-1.94
+121,Kaitse:20 + net1 + PV:12 + Aku:Puudub,20,net1,Puudub,12,-439.0,-1.2
+122,Kaitse:20 + net1 + PV:12 + Aku:Tesla Powerwall 2,20,net1,Tesla Powerwall 2,12,-781.0,-2.14
+123,Kaitse:20 + net1 + PV:12 + Aku:LG Chem RESU,20,net1,LG Chem RESU,12,-629.0,-1.72
+124,Kaitse:20 + net2 + PV:12 + Aku:Puudub,20,net2,Puudub,12,-465.0,-1.28
+125,Kaitse:20 + net2 + PV:12 + Aku:Tesla Powerwall 2,20,net2,Tesla Powerwall 2,12,-787.0,-2.16
+126,Kaitse:20 + net2 + PV:12 + Aku:LG Chem RESU,20,net2,LG Chem RESU,12,-647.0,-1.77
+127,Kaitse:20 + net3 + PV:12 + Aku:Puudub,20,net3,Puudub,12,-518.0,-1.42
+128,Kaitse:20 + net3 + PV:12 + Aku:Tesla Powerwall 2,20,net3,Tesla Powerwall 2,12,-813.0,-2.23
+129,Kaitse:20 + net3 + PV:12 + Aku:LG Chem RESU,20,net3,LG Chem RESU,12,-684.0,-1.87
+130,Kaitse:20 + net4 + PV:12 + Aku:Puudub,20,net4,Puudub,12,-530.0,-1.45
+131,Kaitse:20 + net4 + PV:12 + Aku:Tesla Powerwall 2,20,net4,Tesla Powerwall 2,12,-817.0,-2.24
+132,Kaitse:20 + net4 + PV:12 + Aku:LG Chem RESU,20,net4,LG Chem RESU,12,-693.0,-1.9
+133,Kaitse:32 + net1 + PV:12 + Aku:Puudub,32,net1,Puudub,12,-404.0,-1.11
+134,Kaitse:32 + net1 + PV:12 + Aku:Tesla Powerwall 2,32,net1,Tesla Powerwall 2,12,-767.0,-2.1
+135,Kaitse:32 + net1 + PV:12 + Aku:LG Chem RESU,32,net1,LG Chem RESU,12,-605.0,-1.66
+136,Kaitse:32 + net2 + PV:12 + Aku:Puudub,32,net2,Puudub,12,-431.0,-1.18
+137,Kaitse:32 + net2 + PV:12 + Aku:Tesla Powerwall 2,32,net2,Tesla Powerwall 2,12,-772.0,-2.12
+138,Kaitse:32 + net2 + PV:12 + Aku:LG Chem RESU,32,net2,LG Chem RESU,12,-623.0,-1.71
+139,Kaitse:32 + net3 + PV:12 + Aku:Puudub,32,net3,Puudub,12,-463.0,-1.27
+140,Kaitse:32 + net3 + PV:12 + Aku:Tesla Powerwall 2,32,net3,Tesla Powerwall 2,12,-790.0,-2.17
+141,Kaitse:32 + net3 + PV:12 + Aku:LG Chem RESU,32,net3,LG Chem RESU,12,-645.0,-1.77
+142,Kaitse:32 + net4 + PV:12 + Aku:Puudub,32,net4,Puudub,12,-475.0,-1.3
+143,Kaitse:32 + net4 + PV:12 + Aku:Tesla Powerwall 2,32,net4,Tesla Powerwall 2,12,-793.0,-2.17
+144,Kaitse:32 + net4 + PV:12 + Aku:LG Chem RESU,32,net4,LG Chem RESU,12,-654.0,-1.79
