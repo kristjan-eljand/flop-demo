@@ -1,0 +1,6 @@
+﻿scenario,fuse_size,dso_packet,battery,pv_capacity,smart_kontroll,cost_sum
+0,16,net3,Puudub,0,Ei,601
+1,16,net3,Puudub,6,Ei,32
+2,16,net3,LG Chem RESU,6,Ei,-42
+3,16,net3,Tesla Powerwall 2,6,Ei,-165
+5,16,net3,Tesla Powerwall 2,6,Jah,-237
