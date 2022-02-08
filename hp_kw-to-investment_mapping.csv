@@ -1,0 +1,13 @@
+﻿model,type,price_opt,collector_length,capacity,scop,investment
+Alpha Innotec V-Line 6kw,ground,FALSE,450,6,5.48,10400
+Alpha Innotec V-Line 9kw,ground,FALSE,600,9,5.26,11500
+Alpha Innotec V-Line 13kw,ground,FALSE,800,13,5.4,13400
+CTC Gsi 600 7.7kw,ground,FALSE,550,7.7,5.6,11100
+CTC Gsi 600 11.8kw,ground,FALSE,700,11.8,5.5,12000
+CTC Gsi 600 16kw,ground,FALSE,1000,16,5.5,13900
+Alpha Innotec Split 9kw,air-water,TRUE,0,9,4.37,7700
+Alpha Innotec Split 12kw,air-water,TRUE,0,12,4.43,8150
+Alpha Innotec Split 7.4kw,air-water,TRUE,0,7.4,4.79,7390
+Electrolux Avalanche 12,air-air,FALSE,0,4.5,3.2,990
+Samsung Nordic Airise,air-air,FALSE,0,6.5,4.3,1296
+Panasonic HZ25-WKE,air-air,FALSE,0,7.5,5.38,1798
