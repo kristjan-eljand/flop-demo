@@ -1,9 +1,9 @@
 ﻿heat_source,fuel,fuel_price,unit,efficiency,yearly_maintenance_cost
-Ground-heat,Electricity,168,MWh,4.2,100
-Wood,Wood,82,rm,1.7,80
-Air-water,Electricity,168,MWh,3.2,100
-Natural gas,Natural gas,1069,m3,10.4,100
-Pellet,Pellet,219,t,4.9,250
+ground,Electricity,168,MWh,4.2,100
+wood,Wood,82,rm,1.7,80
+air-water,Electricity,168,MWh,3.2,100
+natural gas,Natural gas,1069,m3,10.4,100
+pellet,Pellet,219,t,4.9,250
 LPG,LPG,800,t,12.8,100
-Electricity,Electricity,168,t,1,25
-Oil,Oil,950,t,10,150
+electricity,Electricity,168,t,1,25
+oil,Oil,950,t,10,150
